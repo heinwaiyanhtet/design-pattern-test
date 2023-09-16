@@ -63,7 +63,6 @@ public class Builder{
             return this;
         }
 
-
         public AnotherClass address(String phone) {
             this.address = address;
             return this;
